@@ -6,7 +6,7 @@
 - 👀 I’m interested in <strong>everything</strong>
 - 🌱 I’m currently learning <strong>Assembly</strong> and <strong>C++</strong>
 - 💞️ I’m looking to collaborate on <strong>Heh heh heh...</strong>
-- 📫 How to reach me <a href = "mailto:twoydrug31@gmail.com"> mail </a>  | <a href="http://t.me/Volu[me]Up" rel="nofollow">telegram</a>
+- 📫 How to reach me <a href = "mailto:twoydrug31@gmail.com"> mail </a>  | <a href="http://t.me/Just_big_boy" rel="nofollow">telegram</a>
 
 <!---
 Sunchouse/Sunchouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
