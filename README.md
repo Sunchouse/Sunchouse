@@ -31,7 +31,7 @@
 
 <br/>
     <a href="https://github.com/sunchouse/github-readme-stats"><img alt="Sunchouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sunchouse&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/makezh/github-readme-stats"><img alt="Sunchouse's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunchouse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Sunchouse/github-readme-stats"><img alt="Sunchouse's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunchouse&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -55,7 +55,7 @@
 <a href="https://github.com/sunchouse/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sunchouse">
 </a>
-<a href="https://github.com/makezh?tab=followers"><img src="https://img.shields.io/github/followers/sunchouse?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Sunchouse?tab=followers"><img src="https://img.shields.io/github/followers/sunchouse?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 Sunchouse/Sunchouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
